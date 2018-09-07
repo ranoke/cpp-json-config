@@ -1,4 +1,4 @@
-# Hikari Config Lib
+# C++ Config Lib
 
 Load/Save settings on json files
 
